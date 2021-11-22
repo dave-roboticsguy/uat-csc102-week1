@@ -1,0 +1,31 @@
+body {
+    background-color: lightgreen;
+    font-size: 2.1em;
+}
+section h1 {
+    color: black;
+    font-family: Geneva,sans-serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+    word-spacing: 12px;
+    line-height: 18px;
+}
+#intro {
+    font-size: 1.0em;
+    color: red;
+}
+.colorful {
+    color: blue;
+}
+#Basics {
+    font-size: 1.0em;
+    color: violet;
+}
+.wet {
+    color: purple;
+}
+
+p {
+    text-align: center;
+    color: yellow
+}
